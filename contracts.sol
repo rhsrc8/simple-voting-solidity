@@ -36,3 +36,4 @@ contract SimpleVoting {
         return candidates.length;
     }
 }
+
